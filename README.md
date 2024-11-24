@@ -1,4 +1,5 @@
-![ac072899fd1b1f09556ed1958f81e397](https://github.com/user-attachments/assets/a5f20550-49b1-4ddc-b07b-efdba2817650)
+![d1847b3505ccdf32be8eafaedc919a76](https://github.com/user-attachments/assets/c0c9196a-d9a1-4351-9a2c-44a34928ed65)
+
 
 
 <h1 align="center">Hi 👋, I'm Fatma ÇELİK</h1>
