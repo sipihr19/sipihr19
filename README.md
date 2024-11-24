@@ -1,4 +1,4 @@
-
+![1670602482212](https://github.com/user-attachments/assets/847ebfbe-b233-49d5-a325-7eff5f02ad9b)
 
 <h1 align="center">Hi 👋, I'm Fatma ÇELİK</h1>
 - 🌱 I’m currently learning **Java, C#, Python, JS, Kotlin...**
