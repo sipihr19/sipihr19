@@ -1,7 +1,4 @@
-![f7e428776e7f5471c4d0052360de41f7](https://github.com/user-attachments/assets/2d973116-7d9a-4588-9560-44094c79be15)
-
-
-
+![35434b81d16fad679b6b86969e827fb9](https://github.com/user-attachments/assets/faf7e1c4-10ea-42a9-b0d9-89f4fb5174e2)
 
 <h1 align="center">Hi 👋, I'm Fatma ÇELİK</h1>
 - 🌱 I’m currently learning **Java, C#, Python, JS, Kotlin...**
