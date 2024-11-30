@@ -1,4 +1,4 @@
-![indir (2)](https://github.com/user-attachments/assets/d22ac80a-fc83-4ec4-99cb-f05fed5c9df1)
+
 <img width="768" alt="4" src="https://github.com/user-attachments/assets/e86df138-395f-49e3-ab53-47e395835fd3">
 
 
