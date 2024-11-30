@@ -1,4 +1,5 @@
-![1670602482212](https://github.com/user-attachments/assets/554c6902-4abb-4bbc-b325-7980f13c60e5)
+![indir (2)](https://github.com/user-attachments/assets/d22ac80a-fc83-4ec4-99cb-f05fed5c9df1)
+
 
 <h1 align="center">Hi 👋, I'm Fatma ÇELİK</h1>
 - 🌱 I’m currently learning **Java, C#, Python, JS, Kotlin...**
