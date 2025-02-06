@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fatma ÇELİK</h1>
-- 🌱 I’m currently learning **Java, C#, Python, JS, Kotlin...**
+- 🌱 I’m currently learning Java, C#, Python, JS, Kotlin...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
